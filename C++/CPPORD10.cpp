@@ -1,11 +1,5 @@
-#include <iostream>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
-
-void solve()
-{
-
-}
 
 int main() {
 	int t;
@@ -18,18 +12,17 @@ int main() {
 		{
 			cin >> a[i];
 		}	
-		for (i=0; i<n;i++)
+	    int f[n];
+		f[0] = 1;
+		for (i=1; i<n;i++)
 		{
-			temp = 1;
-			for (j=i+1;j<n;j++)
+			f[i]= 1;
+			for (j=0;j<i;j++)
 			{
-				if (a[j] > a[i]) temp++;
-				else if (a[j] == a[j-1]) ;
-				else break;
+				if (a[j] < a[i] && f[i] < f[j] +1) f[i] = f[j]+1; 
 			}
-			if (temp > max) max = temp;
 		}
-		cout << max << endl;
+		cout << *max_element(f,f+n) << endl;
 	}
 	return 0;
 }
