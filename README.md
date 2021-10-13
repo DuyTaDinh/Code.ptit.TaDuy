@@ -1,6 +1,7 @@
 ## Source Code in Code.ptit.edu.vn
 * [C++](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/C%2B%2B)
 * [DSA C++](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/DSA%20C%2B%2B)
+* [Java](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/Java)
 * [Python](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/Python)
 
 ## General info
