@@ -1,7 +1,7 @@
 ## Source Code in Code.ptit.edu.vn
 * [C++](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/C%2B%2B)    :    105 bài
 * [DSA C++](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/DSA%20C%2B%2B)   :    244 bài
-* [Java](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/Java)
+* [Java](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/Java)    :    177 bài
 * [Python](https://github.com/taduyhc/Code.ptit.TaDuy/tree/main/Python)   :    100 bài
 
 ## General info
