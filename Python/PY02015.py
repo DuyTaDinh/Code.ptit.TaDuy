@@ -1,5 +1,5 @@
 def check(a):
-    return a.count(a[0]) == len(a)  # len(set(a)) == 1
+    return a.tmp(a[0]) == len(a)  # len(set(a)) == 1
 
 
 while True:
